@@ -22,7 +22,7 @@ You'll need to install the following packages in order to run the codes.
 * R==4.0.3
 
 ## Tutorial
-For the step-by-step tutorial, please refer to: [[https://github.com/SCUTFT-ML/CANDIES/tree/main/CANDIES/tutorial](https://github.com/YeLiu-Lab/CANDIES/tree/main/CANDIES/tutorial)](https://github.com/YeLiu-Lab/CANDIES/tree/main/CANDIES/tutorial)
+For the step-by-step tutorial, please refer to: https://github.com/YeLiu-Lab/CANDIES/tree/main/CANDIES/tutorial
 
 ## Benchmarking methods
 In the paper, we compared CANDIES with 7 unimodal clustering methods, 3 non-spatial multi-omics integration approaches, and 4 spatial multi-omics integration techniques.
